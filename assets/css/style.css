@@ -442,7 +442,7 @@ opacity: .4;
   #FEATURES
 \*-----------------------------------*/
 .features-banner{
-  background-image: url(assets/images/feature-banner.jpg);
+  background: url(assets/images/feature-banner.jpg);
   min-height: 520px;
   display: flex;
   justify-content: center;
