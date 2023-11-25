@@ -867,7 +867,7 @@ responsive for larger than 992px screen
 }
 
 .hero .wrapper{
-  grid-template-columns: 0.5fr 1fr;
+  grid-template-columns: 0.8fr 1fr;
 
 }
 
